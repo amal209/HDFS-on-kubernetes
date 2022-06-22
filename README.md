@@ -6,11 +6,6 @@ The Apache Hadoop software library is a framework that allows for the distribute
 
 **Homepage:** <https://hadoop.apache.org/>
 
-## Maintainers
-
-| Name | Email | Url |
-| ---- | ------ | --- |
-| cgiraldo | cgiraldo@gradiant.org |  |
 
 ## Source Code
 
